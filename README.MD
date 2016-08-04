@@ -8,4 +8,4 @@ Place the "Kong Preloader" folder into a "WebGLTemplates" folder in your assets.
 
 ## LICENSE
 
-The preloader is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/MIT).
