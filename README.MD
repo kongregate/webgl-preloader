@@ -6,7 +6,7 @@ This is a template for WebGL-based Unity games. It includes a simple preloader, 
 
 ## INSTRUCTIONS
 
-Place the "Kong Preloader" folder into a "WebGLTemplates" folder in your assets. In the WebGL player settings window, there should now be an option to use it as the template when building your game. That's it! All done.
+Place the "Kong Preloader" folder into a "WebGLTemplates" folder in your assets. In the WebGL player settings window, there should now be an option to use it as the template when building your game. The folder where you export your project has to be called "build" for the game to load properly. That's it! All done.
 
 ## LICENSE
 
